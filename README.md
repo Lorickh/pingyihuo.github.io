@@ -7,7 +7,7 @@ I am a researcher with a PhD in Computer Science from The Penn State University,
 
 1. **CXL Optimization**
    *Collaborated with AMD*  
-   Published in the Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture.
+   Accepted in the Proceedings of the 57th Annual IEEE/ACM International Symposium on Microarchitecture.
 
 2. **ISVABI: In-Storage Video Analytics Engine with Block Interface**
    *Collaborated with Intel*  
