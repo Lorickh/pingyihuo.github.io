@@ -10,7 +10,7 @@ I am a researcher with a PhD in Computer Science from The Penn State University,
    Accepted in the Proceedings of the 57th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO).
 
 2. **ISVABI: In-Storage Video Analytics Engine with Block Interface**
-   <span style="color:blue;">Collaborated with AMD</span>   
+   <span style="color:blue;">Collaborated with Intel</span>   
    Published in the Proceedings of the 24rd ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems  (LCTES).
 
 3. **ISKEVA: in-SSD key-value database engine for video analytics applications**
